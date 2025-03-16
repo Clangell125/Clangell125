@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Clangell125
-- 👀 I’m interested in Python Development
-- 🌱 I’m currently learning Ap chem, Physics, and Python
+- 👀 I’m interested in Python Development, HTML/CSS Designing, and Java Development
+- 🌱 I’m currently learning HTML/CSS and Java
 - 💞️ I’m looking to collaborate on Random fun projects
 - 📫 How to reach me email: Clangell125@gmail.com
 
