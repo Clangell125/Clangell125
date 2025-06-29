@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Clangell125
+- 👋 Hi, I’m Chris
 - 👀 I’m interested in Python Development, HTML/CSS Designing, and Java Development
-- 🌱 I’m currently learning HTML/CSS and Java
+- 🌱 I’m currently learning HTML/CSS, Python, and Java
 - 💞️ I’m looking to collaborate on Random fun projects
-- 📫 How to reach me email: Clangell125@gmail.com
+- 📫 How to reach me:
+- Email: clangell125@gmail.com
+- Insta: @chris__angell
 
 <!---
 Clangell125/Clangell125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
