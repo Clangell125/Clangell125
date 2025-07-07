@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on Random fun projects
 - 📫 How to reach me:
 - Email: clangell125@gmail.com
-- Insta: @chris__angell
 - Codeforces: https://codeforces.com/profile/clangell125
 
 <!---
