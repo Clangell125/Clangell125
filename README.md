@@ -6,6 +6,7 @@
 - 📫 How to reach me:
 - Email: clangell125@gmail.com
 - Insta: @chris__angell
+- Codeforces: https://codeforces.com/profile/clangell125
 
 <!---
 Clangell125/Clangell125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
