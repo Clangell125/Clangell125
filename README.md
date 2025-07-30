@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris
-- 👀 I’m interested in Python Development, HTML/CSS Designing, and Java Development
+- 👀 I’m interested in Python Development, Machine Learning w/ Python, HTML/CSS Designing, and Java Development
 - 🌱 I’m currently learning HTML/CSS, Python, Swift, and Java
 - 👨‍💻 XCode, VSCode, and Vim experience
 - 💞️ I’m looking to collaborate on Random fun projects
